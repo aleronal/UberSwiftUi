@@ -12,6 +12,7 @@ Practicing on swiftUI and using MapKit to create a basic clone of uber.
 - Address Search bar
 
 ## Example app
-![Screenshot 2025-01-23 at 16 58 21](https://github.com/user-attachments/assets/558ca358-5a11-4481-9008-7eaf3d8c8981)
-![Screenshot 2025-01-23 at 16 58 48](https://github.com/user-attachments/assets/0624f99f-7f39-49cf-8d62-60707d348eab)
 
+
+![simulator_screenshot_35336323-8C56-4D4C-B0D8-56740C58A916](https://github.com/user-attachments/assets/59af18b7-5e95-4a60-b800-57c1494a7eff)
+![simulator_screenshot_A33E4B0D-CC78-4F14-9745-D827946BD3F0](https://github.com/user-attachments/assets/93db9918-5bf5-44a6-a00e-bfb9329ab04c)
