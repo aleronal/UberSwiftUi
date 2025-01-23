@@ -13,6 +13,6 @@ Practicing on swiftUI and using MapKit to create a basic clone of uber.
 
 ## Example app
 
+![Screenshot 2025-01-23 at 17 01 23](https://github.com/user-attachments/assets/6bd575b1-13dc-4d3d-9633-364ed0c0127e)
 
-![simulator_screenshot_35336323-8C56-4D4C-B0D8-56740C58A916](https://github.com/user-attachments/assets/59af18b7-5e95-4a60-b800-57c1494a7eff)
-![simulator_screenshot_A33E4B0D-CC78-4F14-9745-D827946BD3F0](https://github.com/user-attachments/assets/93db9918-5bf5-44a6-a00e-bfb9329ab04c)
+![Screenshot 2025-01-23 at 17 01 42](https://github.com/user-attachments/assets/c5b1e5f1-5b0d-4fb4-a651-0b62b83adf8a)
